@@ -1,43 +1,53 @@
 <template>
   <div class="container mx-auto">
-    <div class="hero min-h-screen" style="background-image: url(bg-lipedema-01.jpg);">
+    <!-- <div class="min-h-screen" style="background-image: url(bg-lipedema-01.jpg);"> -->
+    <div class=" bg-gradient-to-tr from-orange-200 via-amber-100 to-orange-300 px-2 min-h-screen">
       <div class="hero-content text-center text-neutral-content">
-        <div class="max-w-md">
-          <img src="assets/ipfbranca.png" class="pb-40 w-72 mx-auto">
-          <h1 class="mb-5 text-5xl font-serif text-yellow-100">Lipedema Clinic</h1>
-          <img src="assets/woman-lipedema.webp" class="pb-40 w-full rounded-lg mx-auto">
+        <div class="">
+          <img src="assets/INSTITUTO.png" class="py-10 w-56 mx-auto">
+
         </div>
       </div>
+      <img src="assets/clinica.jpg" class="h-52 object-cover w-full rounded">
+
+      <h1 class="text-2xl font-serif  text-center pb-4 pt-10 ">Bem-vindo à Clínica de
+        Tratamento para Lipedema
+      </h1>
+      <img src="assets/lipedema.png" class="py-10 w-56 mx-auto">
     </div>
 
 
-    <div class="hero bg-base-200 py-10 ">
-      <div class="hero-content flex">
-        <img src="assets/patricia-01.jpg" class="max-w-sm rounded-lg shadow-2xl w-40 object-cover" />
-        <div>
-          <h1 class="text-3xl font-serif  ">Bem-vindo à Clínica de
-            Tratamento para Lipedema
-          </h1>
+    <div class=" bg-base-200 py-20 ">
+      <div class="flex items-start gap-2 px-2">
+        <div class="pt-1">
 
-          <p class="py-6 text-justify">Apresentamos um espaço dedicado ao tratamento e pesquisa do lipedema, liderado
+          <img src="assets/patricia-01.jpg" class="max-w-sm rounded-lg shadow-2xl w-32 h-56 object-cover" />
+        </div>
+        <div>
+
+
+          <p class="text-2xl font-thin">Apresentamos um espaço dedicado ao tratamento e pesquisa do
+            lipedema,
+            liderado
             pela Dra.
             Patrícia Froes, renomada pesquisadora na área.</p>
 
         </div>
       </div>
     </div>
-    <div class="bg-verde-50 py-10 text-white px-4 flex">
+    <div class="bg-orange-100  py-10 px-4 flex">
       <div class="">
-        <h1 class="text-3xl font-serif  ">Nossa Missão
+        <h1 class="text-3xl font-serif  pb-10">Nossa Missão
         </h1>
-        <div class="w-0.5 bg-white h-20 mt-5 rounded-md  opacity-60"></div>
-        <span class="py-6">Promover a saúde e o bem-estar, oferecendo tratamentos inovadores e
+
+        <p class="py-6 text-right pr-2 text-xl  font-thin">Promover a saúde e o bem-estar, oferecendo tratamentos
+          inovadores e
           personalizados
-          para pacientes com lipedema, aliando pesquisa científica e prática clínica.</span>
+          para pacientes com lipedema, aliando pesquisa científica e prática clínica.</p>
       </div>
-      <img src="assets/img-01.png" class="w-40 rounded-xl" alt="">
+      <img src="assets/img-01.png" class="w-40 rounded-xl " alt="">
     </div>
-    <div class="bg-verde-50 py-10 text-white px-4">
+    <div class="bg-orange-100  py-10 px-4">
 
       <h1 class="text-3xl font-serif  ">Equipe de Profissionais
 
@@ -48,19 +58,19 @@
         especializados no tratamento do
         lipedema</h3>
       <div class="flex pt-10 gap-3">
-        <img src="assets/patricia-02.jpg" class="max-w-sm rounded-lg shadow-2xl w-40 object-cover" />
+        <img src="assets/patricia-02.jpg" class="max-w-sm rounded-lg shadow-2xl w-32 object-cover" />
         <div>
           <h1 class="text-3xl font-serif  ">DRA. PATRÍCIA FROES
 
           </h1>
           <p>FISIOTERAPEUTA</p>
           <p class="text-xl py-2">Professora Doutora</p>
-          <p class="text-justify "> Leciona e orienta no
+          <p class="text-sm "> Leciona e orienta no
             campo da fisioterapia, com ênfase em
             tratamentos dermatofuncionais e lipedema.
           </p>
           <p class="text-xl py-2">Coordenadora de Pesquisa e Inovação</p>
-          <p>
+          <p class="text-sm">
 
             Lidera
             projetos inovadores para o desenvolvimento
@@ -75,7 +85,7 @@
           </h1>
           <p>FISIOTERAPEUTA</p>
           <p class="text-xl py-2">Foco em Lipedema</p>
-          <p class="text-justify "> Responsável pelo
+          <p class="text-sm"> Responsável pelo
             atendimento direcionado a pacientes com
             lipedema da Clínica.
           </p>
@@ -84,7 +94,7 @@
 
 
         </div>
-        <img src="assets/alessandra-01.jpg" class="max-w-sm rounded-lg shadow-2xl w-40 object-cover" />
+        <img src="assets/alessandra-01.jpg" class="max-w-sm rounded-lg shadow-2xl w-32 object-cover" />
       </div>
       <div class="flex pt-10 gap-3">
         <img src="assets/patricia-02.jpg" class="max-w-sm rounded-lg shadow-2xl w-40 object-cover" />
@@ -116,10 +126,10 @@
       </div>
 
     </div>
-    <div class="text-center ">
+    <div class="text-center px-2">
       <h1 class="text-5xl font-serif py-10  ">Protocolo de Tratamento conservador
       </h1>
-      <h3 class="font-medium text-2xl py-5">Tratamento Integrado de Lipedema
+      <h3 class="font-medium text-2xl py-5 px-3">Tratamento Integrado de Lipedema
       </h3>
       <ul class="timeline timeline-vertical">
         <li>
@@ -128,7 +138,7 @@
           </div>
           <div class="timeline-end">
 
-            <div class="text-lg font-black">Terapias Nutricionais com base na
+            <div class="font-black text-left">Terapias Nutricionais com base na
               avaliação nutricional global</div>
           </div>
           <hr />
@@ -138,24 +148,27 @@
           <div class="timeline-middle">
             <CircleDot />
           </div>
-          <div class="timeline-start mb-10">
-            <div class="text-lg font-black">Planejamento Dietético AntiInflamatório</div>
-            Foco: Dieta rica em alimentos antiinflamatório com Objetivo de Reduzir a
-            inflamação sistêmica que podem agravar
-            os sintomas do lipedema.
+          <div class="timeline-start mb-10 text-right">
+            <div class="font-black">Planejamento Dietético AntiInflamatório</div>
+            <p class="text-sm"> Foco: Dieta rica em alimentos antiinflamatório com Objetivo de Reduzir a
+              inflamação sistêmica que podem agravar
+              os sintomas do lipedema.</p>
           </div>
           <hr />
         </li>
         <li>
           <hr />
-          <div class="timeline-middle">
+          <div class="timeline-middle ">
             <CircleDot />
           </div>
-          <div class="timeline-end mb-10">
-            <div class="text-lg font-black">Suplementação Estratégica e Fitoterapia
+          <div class="timeline-end mb-10 text-left">
+            <div class="font-black">Suplementação Estratégica e Fitoterapia
             </div>
-            Objetivo: Complementar a dieta e
-            maximizar o controle da inflamação.
+            <p class="text-sm">
+
+              Objetivo: Complementar a dieta e
+              maximizar o controle da inflamação.
+            </p>
           </div>
           <hr />
         </li>
@@ -164,14 +177,17 @@
           <div class="timeline-middle">
             <CircleDot />
           </div>
-          <div class="timeline-start mb-10">
-            <div class="text-lg font-black">Educação Nutricional com foco
+          <div class="timeline-start mb-10 text-right">
+            <div class="font-black">Educação Nutricional com foco
               Comportamental
             </div>
-            Objetivo: Capacitar os pacientes a fazer
-            escolhas alimentares que favoreça a
-            longo prazo o controle dos sinais e
-            sintomas do lipedema.
+            <p class="text-sm">
+
+              Objetivo: Capacitar os pacientes a fazer
+              escolhas alimentares que favoreça a
+              longo prazo o controle dos sinais e
+              sintomas do lipedema.
+            </p>
           </div>
 
         </li>
