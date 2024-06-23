@@ -3,7 +3,7 @@
     <!-- <div class="min-h-screen" style="background-image: url(bg-lipedema-01.jpg);"> -->
     <div class=" bg-gradient-to-tr from-orange-200 via-amber-100 to-orange-300 px-2 min-h-screen">
       <div class="hero-content text-center text-neutral-content">
-        <div class="">
+        <div>
           <img src="assets/INSTITUTO.png" class="py-10 w-56 mx-auto">
 
         </div>
@@ -36,7 +36,7 @@
       </div>
     </div>
     <div class="bg-orange-100  py-10 px-4 flex">
-      <div class="">
+      <div>
         <h1 class="text-3xl font-serif  pb-10">Nossa Missão
         </h1>
 
@@ -97,7 +97,7 @@
         <img src="assets/alessandra-01.jpg" class="max-w-sm rounded-lg shadow-2xl w-32 object-cover" />
       </div>
       <div class="flex pt-10 gap-3">
-        <img src="assets/patricia-02.jpg" class="max-w-sm rounded-lg shadow-2xl w-40 object-cover" />
+        <img src="assets/katia-01.jpg" class="max-w-sm rounded-lg shadow-2xl w-32 object-cover" />
         <div>
           <h1 class="text-3xl font-serif  ">KÁTIA VIANA
 
@@ -105,21 +105,21 @@
           </h1>
           <p>NUTRICIONISTA CLÍNICA</p>
           <p class="text-xl py-2">Foco em Lipedema</p>
-          <p class="text-justify "> Responsável pelo
+          <p class="text-sm "> Responsável pelo
             Atendimento Nutricional da Clínica
           </p>
           <p class="text-xl py-2">Experiência Clínica e Acadêmica</p>
-          <p>
+          <p class="text-sm">
 
-            mestre em ciencias da saúde, vinte anos de
+            Mestre em ciencias da saúde, vinte anos de
             experiência clínica e docência no ensino
             superior.</p>
           <p class="text-xl py-2">Especializações</p>
-          <p>
+          <p class="text-sm ">
 
             Nutrição Clínica Funcional, Fitoterapia
             e Suplementação Magistral</p>
-          <p class="text-xl py-2">Expertise em Tratamento Modulador da
+          <p class="text-lg py-2">Expertise em Tratamento Modulador da
             Inflamação</p>
 
         </div>
@@ -193,11 +193,107 @@
         </li>
       </ul>
     </div>
+    <div class="bg-orange-100 py-20">
+      <div class="text-center px-2 pb-14">
+        <img src="assets/img-02.png" class="rounded-lg">
+
+        <h3 class="text-4xl font-serif">Drenagem Linfática Manual (DLM) e mecânica
+        </h3>
+        <p>Ação anti-inflamatória, Alívio da dor,
+          melhora da circulação, mobilidade articular
+          e redução do edema.</p>
+      </div>
+      <div class="text-center px-2 pb-14">
+        <img src="assets/img-03.png" class="rounded-lg">
+
+        <h3 class="text-4xl font-serif">Magnetoterapia
+        </h3>
+        <p>Redução na inflamação, aumenta na
+          regeneração celular e alivia a dor.</p>
+      </div>
+      <div class="text-center px-2 pb-14">
+        <img src="assets/img-04.png" class="rounded-lg">
+
+        <h3 class="text-4xl font-serif">Ondas de Choque
+        </h3>
+        <p>Ação anti-inflamatória, Redução da fibrose,
+          melhoria na elasticidade da pele, e alívio da
+          dor.
+        </p>
+      </div>
+      <div class="text-center px-2 pb-14">
+        <img src="assets/img-05.png" class="rounded-lg">
+
+        <h3 class="text-4xl font-serif">Fotobiomodulação (Laser e led)
+
+        </h3>
+        <p>Promoção da regeneração celular, redução
+          da inflamação e alívio da dor.</p>
+      </div>
+    </div>
+    <div class="py-20 px-4">
+      <p class="text-xl text-center"> Contamos com uma rede de parceiros
+        especializados que complementam nosso
+        tratamento, garantindo o melhor para nossos
+        pacientes.</p>
+      <div class="flex justify-center">
+
+        <ul class="text-2xl font-serif  py-10">
+          <li>
+            <span class="flex gap-3">
+              <DiamondPlus /> Cirurgião vascular
+            </span>
+          </li>
+          <li>
+            <span class="flex gap-3">
+              <DiamondPlus /> Cirurgião plástico
+            </span>
+          </li class="flex gap-2">
+          <li>
+            <span class="flex gap-3">
+              <DiamondPlus /> Endocrinologista
+            </span>
+          </li class="flex gap-2">
+          <li>
+            <span class="flex gap-3">
+              <DiamondPlus /> Psicologia
+            </span>
+          </li>
+          <li>
+            <span class="flex gap-3">
+              <DiamondPlus /> Fisioterapeuta - pilates
+            </span>
+          </li>
+        </ul>
+      </div>
+      <p class="text-xl text-center"> Todos os sócios idealizadores e profissionais da
+        clínica estão unidos por um propósito comum:
+        oferecer o melhor tratamento e cuidado para
+        pacientes com lipedema</p>
+    </div>
+    <div class="px-3 py-32">
+      <div
+        class="bg-gradient-to-tr rounded-3xl shadow-lg from-orange-200 via-amber-100 to-orange-300 px-2 py-32 flex justify-center items-center flex-col ">
+
+        <img src="assets/lipedema.png" class="py-10 w-56 mx-auto">
+        <h4 class="text-3xl font-serif">contatos</h4>
+
+        <br>
+        <span class="flex gap-3 text-xl  items-center">
+          <Phone /> +55 (84) 9 8132 0201
+        </span><br>
+        <a class="btn btn-outline text-xl flex gap-3 items-center" href="https://wa.me/5584994032439">
+
+          <MessageCircle /> +55 (84) 9 9403 2439 <br>
+        </a>
+
+      </div>
+    </div>
   </div>
 </template>
 
 
 <script setup lang="ts">
-import { CircleDot } from 'lucide-vue-next';
+import { CircleDot, DiamondPlus, Phone, MessageCircle } from 'lucide-vue-next';
 
 </script>
