@@ -45,7 +45,7 @@
           personalizados
           para pacientes com lipedema, aliando pesquisa científica e prática clínica.</p>
       </div>
-      <img src="assets/img-01.png" class="w-40 rounded-xl " alt="">
+      <!-- <img src="assets/img-01.png" class="w-40 rounded-xl " alt="">; -->
     </div>
     <div class="bg-orange-100  py-10 px-4">
 
@@ -287,6 +287,18 @@
           <MessageCircle /> +55 (84) 9 9403 2439 <br>
         </a>
 
+        <div class=" flex justify-between w-full items-center gap-4 bg-orange-100 mt-4 rounded-lg px-3">
+          <img src="assets/local.png" class="w-40 mask mask-circle" alt="">
+          <div class="">
+            <MapPin class="" />
+            <p>Manhattan Business Office
+              Rua Campos Sales, Tirol - Natal/RN
+              10 andar sala 1005</p>
+            <a href="#" class="btn  btn-link"> <Map /> Abrir no Mapa</a>
+
+          </div>
+        </div>
+
       </div>
     </div>
   </div>
@@ -294,6 +306,6 @@
 
 
 <script setup lang="ts">
-import { CircleDot, DiamondPlus, Phone, MessageCircle } from 'lucide-vue-next';
+import { CircleDot, DiamondPlus, Phone, MessageCircle, MapPin, Map } from 'lucide-vue-next';
 
 </script>
