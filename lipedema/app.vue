@@ -283,7 +283,7 @@
           </li>
         </ul>
       </div>
-      <p class="text-xl text-center"> Todos os sócios idealizadores e profissionais da
+      <p class="text-xl text-center"> Todos os idealizadores e profissionais da
         clínica estão unidos por um propósito comum:
         oferecer o melhor tratamento e cuidado para
         pacientes com lipedema</p>
