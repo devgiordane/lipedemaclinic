@@ -4,16 +4,16 @@
     <div class=" bg-gradient-to-tr from-orange-200 via-amber-100 to-orange-300 px-2 min-h-screen">
       <div class="hero-content text-center text-neutral-content">
         <div>
-          <img src="assets/INSTITUTO.png" class="py-10 w-56 mx-auto">
+          <img src="assets/INSTITUTO.png" class="py-6 w-56 mx-auto">
 
         </div>
       </div>
-      <img src="assets/clinica.jpg" class="h-52 object-cover w-full rounded">
+      <img src="assets/clinica.jpg" class="h-44 object-cover w-full rounded">
 
-      <h1 class="text-2xl font-serif  text-center pb-4 pt-10 ">Bem-vindo à Clínica de
+      <img src="assets/lipedema.png" class="py-10 w-56 mx-auto">
+      <h1 class="text-2xl font-serif  text-center pb-4  ">Bem-vindo à Clínica de
         Tratamento para Lipedema
       </h1>
-      <img src="assets/lipedema.png" class="py-10 w-56 mx-auto">
     </div>
 
 
@@ -127,10 +127,10 @@
 
     </div>
     <div class="text-center px-2">
-      <h1 class="text-5xl font-serif py-10  ">Protocolo de Tratamento conservador
+      <h1 class="text-5xl font-serif py-10  ">Protocolo de tratamento nutricional do lipedema
       </h1>
-      <h3 class="font-medium text-2xl py-5 px-3">Tratamento Integrado de Lipedema
-      </h3>
+      <!-- <h3 class="font-medium text-2xl py-5 px-3">Tratamento Integrado de Lipedema
+      </h3> -->
       <ul class="timeline timeline-vertical">
         <li>
           <div class="timeline-middle">
@@ -194,12 +194,14 @@
       </ul>
     </div>
     <div class="bg-orange-100 py-20">
+      <h1 class="text-5xl font-serif py-10 text-center ">Tratamento fisioterapeutico do lipedema
+      </h1>
       <div class="text-center px-2 pb-14">
         <img src="assets/img-02.png" class="rounded-lg">
 
         <h3 class="text-4xl font-serif">Drenagem Linfática Manual (DLM) e mecânica
         </h3>
-        <p>Ação anti-inflamatória, Alívio da dor,
+        <p>Alívio da dor,
           melhora da circulação, mobilidade articular
           e redução do edema.</p>
       </div>
@@ -209,7 +211,7 @@
         <h3 class="text-4xl font-serif">Magnetoterapia
         </h3>
         <p>Redução na inflamação, aumenta na
-          regeneração celular e alivia a dor.</p>
+          regeneração celular, melhora da equimose e hematoma, e alivia a dor.</p>
       </div>
       <div class="text-center px-2 pb-14">
         <img src="assets/img-04.png" class="rounded-lg">
@@ -229,6 +231,15 @@
         </h3>
         <p>Promoção da regeneração celular, redução
           da inflamação e alívio da dor.</p>
+      </div>
+      <div class="text-center px-2 pb-14">
+        <img src="assets/img-05.jpeg" class="rounded-lg">
+
+        <h3 class="text-4xl font-serif">Ozonioterapia
+
+        </h3>
+        <p>Redução da inflamação, aumento da oxigenação e vasodilatação, ação bactericida, regeneração tecidual,
+          estímulo do colágeno</p>
       </div>
     </div>
     <div class="py-20 px-4">
@@ -256,12 +267,12 @@
           </li class="flex gap-2">
           <li>
             <span class="flex gap-3">
-              <DiamondPlus /> Psicologia
+              <DiamondPlus /> Psicologa
             </span>
           </li>
           <li>
             <span class="flex gap-3">
-              <DiamondPlus /> Fisioterapeuta - pilates
+              <DiamondPlus /> Fisioterapeuta especializada em pilates
             </span>
           </li>
         </ul>
@@ -271,9 +282,9 @@
         oferecer o melhor tratamento e cuidado para
         pacientes com lipedema</p>
     </div>
-    <div class="px-3 py-32">
+    <div class="px-3 py-10">
       <div
-        class="bg-gradient-to-tr rounded-3xl shadow-lg from-orange-200 via-amber-100 to-orange-300 px-2 py-32 flex justify-center items-center flex-col ">
+        class="bg-gradient-to-tr rounded-3xl shadow-lg from-orange-200 via-amber-100 to-orange-300 px-2 py-10 flex justify-center items-center flex-col ">
 
         <img src="assets/lipedema.png" class="py-10 w-56 mx-auto">
         <h4 class="text-3xl font-serif">contatos</h4>
@@ -287,8 +298,8 @@
           <MessageCircle /> +55 (84) 9 9403 2439 <br>
         </a>
 
-        <div class=" flex justify-between w-full items-center gap-4 bg-orange-100 mt-4 rounded-lg px-3">
-          <img src="assets/local.png" class="w-40 mask mask-circle" alt="">
+        <div class=" flex justify-between w-full items-center gap-4 bg-slate-50 py-5 mt-4 rounded-lg px-3">
+          <img src="assets/local.png" class="w-32 mask mask-circle" alt="">
           <div class="">
             <MapPin class="" />
             <p>Manhattan Business Office
