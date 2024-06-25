@@ -211,7 +211,7 @@
         <h3 class="text-4xl font-serif">Magnetoterapia
         </h3>
         <p>Redução na inflamação, aumenta na
-          regeneração celular, melhora da equimose e hematoma, e alivia a dor.</p>
+          regeneração celular e alivia a dor.</p>
       </div>
       <div class="text-center px-2 pb-14">
         <img src="assets/img-04.png" class="rounded-lg">
@@ -229,7 +229,7 @@
         <h3 class="text-4xl font-serif">Fotobiomodulação (Laser e led)
 
         </h3>
-        <p>Promoção da regeneração celular, redução
+        <p>Promoção da regeneração celular, melhora da equimose e hematoma, redução
           da inflamação e alívio da dor.</p>
       </div>
       <div class="text-center px-2 pb-14">
@@ -239,7 +239,7 @@
 
         </h3>
         <p>Redução da inflamação, aumento da oxigenação e vasodilatação, ação bactericida, regeneração tecidual,
-          estímulo do colágeno</p>
+          estímulo de colágeno</p>
       </div>
     </div>
     <div class="py-20 px-4">
@@ -273,6 +273,12 @@
           <li>
             <span class="flex gap-3">
               <DiamondPlus /> Fisioterapeuta especializada em pilates
+            </span>
+          </li>
+          <li>
+            <span class="flex gap-3">
+              <DiamondPlus /> Fisioterapeuta especializada em
+              Ozonioterapia
             </span>
           </li>
         </ul>
