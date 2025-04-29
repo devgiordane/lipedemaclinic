@@ -296,12 +296,12 @@
         <h4 class="text-3xl font-serif">contatos</h4>
 
         <br>
-        <span class="flex gap-3 text-xl  items-center">
+        <!-- <span class="flex gap-3 text-xl  items-center">
           <Phone /> +55 (84) 9 8132 0201
-        </span><br>
-        <a class="btn btn-outline text-xl flex gap-3 items-center" href="https://wa.me/5584994032439">
+        </span><br> -->
+        <a class="btn btn-outline text-xl flex gap-3 items-center" href="https://wa.me/558481320201">
 
-          <MessageCircle /> +55 (84) 9 9403 2439 <br>
+          <MessageCircle /> +55 (84) 8132-0201 <br>
         </a>
 
         <div class=" flex justify-between w-full items-center gap-4 bg-slate-50 py-5 mt-4 rounded-lg px-3">
